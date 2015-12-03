@@ -10,6 +10,7 @@ The tool is no longer maintained.<br>
 In this repository, for Bug Query Language you will find:
 * :x: Source code (not available)
 * :x: Original tool (not available)
+* :x: Binaries (not available)
 
 This tool was certified as unworkable since the only link to the tool in the paper is broken. Either that or the page has been pulled down permanently.
 <p>
