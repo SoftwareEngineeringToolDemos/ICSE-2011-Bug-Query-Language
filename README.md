@@ -1,11 +1,10 @@
 # ICSE-2011-Bug Query Language
-Github repository of the tool Bug Query Language
 <p>
 The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=1985975&dl=ACM&coll=DL&CFID=553728284&CFTOKEN=38104108) at the International Conference on Software Engineering, 2011.
 <p>
 This repository <b><i>IS NOT</b></i> the original repository for this tool.<br>
 <p>
-The tool is no longer maintained. So there is no Project Page/Download Page for the tool.<br>
+Note: The tool is no longer maintained. So there is no Project Page/Download Page for the tool.<br>
 The link to the original tool [demo.](https://www.youtube.com/watch?v=yzm9iD5Ow9w)
 
 In this repository, for Bug Query Language you will find:
