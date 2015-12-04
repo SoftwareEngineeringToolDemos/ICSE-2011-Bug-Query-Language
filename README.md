@@ -5,13 +5,16 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 <p>
 This repository <b><i>IS NOT</b></i> the original repository for this tool.<br>
 <p>
-The tool is no longer maintained. So there is no project page for the tool.<br>
+The tool is no longer maintained. So there is no Project Page/Download Page for the tool.<br>
 
 In this repository, for Bug Query Language you will find:
+* :white_check_mark: [Video Demonstration](https://www.youtube.com/watch?v=yzm9iD5Ow9w)
 * :x: Source code (not available)
 * :x: Original tool (not available)
 * :x: Binaries (not available)
-* :white_check_mark: [Video Demonstration](https://www.youtube.com/watch?v=yzm9iD5Ow9w)
+* :x: Virtual Machine .ova file (not available)
+* :x: Virtual Machine Vagrant Script (not available)
+
 
 This tool was certified as unworkable since the only link to the tool in the paper is broken. 
 <p>
