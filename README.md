@@ -3,7 +3,7 @@ Github repository of the tool Bug Query Language
 <p>
 The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=1985975&dl=ACM&coll=DL&CFID=553728284&CFTOKEN=38104108) at the International Conference on Software Engineering, 2011.
 <p>
-This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
+This repository <b><i>IS NOT</b></i> the original repository for this tool.<br>
 <p>
 The tool is no longer maintained.<br>
 
