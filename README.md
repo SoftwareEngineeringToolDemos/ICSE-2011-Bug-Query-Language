@@ -15,10 +15,8 @@ Here are some links to the original project:
 
 In this repository, for Bug Query Language you will find:
 * :x: Source code (not available)
-* :x: Original tool (not available)
-* :x: Binaries (not available)
-* :x: Virtual Machine .ova file (not available)
-* :x: Virtual Machine Vagrant Script (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 
 This tool was certified as unworkable since the URL mentioned in the Paper is not working. 
